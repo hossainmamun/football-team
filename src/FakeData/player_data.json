@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "name": "leonel messi",
+        "club": "barselona",
+        "salary": 5000000,
+        "position": "mid-fielder",
+        "country": "argentina",
+        "gender": "male",
+        "image": "https://i.ibb.co/wSgZJFD/349867c6c5db890d2b9d2ce15caf98e5.jpg",
+        "jersey": "10"
+    },
+    {
+        "id": 2,
+        "name": "cristiano ronaldo",
+        "club": "jubentus",
+        "salary": 5000000,
+        "position": "winger",
+        "country": "portugal",
+        "gender": "male",
+        "image": "https://i.ibb.co/RprMrgC/NINTCHDBPICT000607001171.jpg",
+        "jersey": "7"
+    },
+    {
+        "id": 3,
+        "name": "dibala",
+        "club": "jubentus",
+        "salary": 3000000,
+        "position": "forward",
+        "country": "argentina",
+        "gender": "male",
+        "image": "https://i.ibb.co/30TvXfP/rd3tbgms-paulo-dybala-juventus-afp-625x300-22-March-20.jpg",
+        "jersey": "10"
+    },
+    {
+        "id": 4,
+        "name": "korim benzema",
+        "club": "meal-madrid",
+        "salary": 3200000,
+        "position": "mid-fielder",
+        "country": "france",
+        "gender": "male",
+        "image": "https://i.ibb.co/QPcGCLM/1192510411.jpg",
+        "jersey": "11"
+    },
+    {
+        "id": 5,
+        "name": "hazard",
+        "club": "chelse",
+        "salary": 3300000,
+        "position": "forward",
+        "country": "belgium",
+        "gender": "male",
+        "image": "https://i.ibb.co/Zm8hpSS/Eden-Hazard-2.png",
+        "jersey": "9"
+    },
+    {
+        "id": 6,
+        "name": "zultan ibrahimobiz",
+        "club": "psg",
+        "salary": 2800000,
+        "position": "winger",
+        "country": "sweden",
+        "gender": "male",
+        "image": "https://i.ibb.co/3m5P4zF/zlatan-ibrahimovic-sweden-1uxaeh9fcni5t17xwvxnoueoe8.jpg",
+        "jersey": "11"
+    },
+    {
+        "id": 7,
+        "name": "luise suyaraz",
+        "club": "atlatico-madrid",
+        "salary": 2500000,
+        "position": "forward",
+        "country": "uruguay",
+        "gender": "male",
+        "image": "https://i.ibb.co/wdgHZfJ/mini-Branded-Liverpool01052019-pic-miguel-ruiz-009.jpg",
+        "jersey": "11"
+    },
+    {
+        "id": 8,
+        "name": "cavani",
+        "club": "psg",
+        "salary": 2100000,
+        "position": "forward",
+        "country": "uruguay",
+        "gender": "male",
+        "image": "https://i.ibb.co/5WJ0yDR/233987-233918-441.jpg",
+        "jersey": "9"
+    },
+    {
+        "id": 9,
+        "name": "sadio mena",
+        "club": "liverpool",
+        "salary": 2700000,
+        "position": "forward",
+        "country": "somalia",
+        "gender": "male",
+        "image": "https://i.ibb.co/CVK1qNT/1-Getty-Images-1205623059.jpg",
+        "jersey": "7"
+    },
+    {
+        "id": 10,
+        "name": "masut ozil",
+        "club": "arsenal",
+        "salary": 2400000,
+        "position": "mid-fielder",
+        "country": "germany",
+        "gender": "male",
+        "image": "https://i.ibb.co/WnjdNL7/mesut-ozil-germany-7z52z599git51mrskqgi3d7ux.jpg",
+        "jersey": "11"
+    },
+    {
+        "id": 11,
+        "name": "md salah",
+        "club": "liverpool",
+        "salary": 2900000,
+        "position": "mid-fielder",
+        "country": "egypt",
+        "gender": "male",
+        "image": "https://i.ibb.co/hFWzhTC/Mohamed-Salah-4.jpg",
+        "jersey": "10"
+    },
+    {
+        "id": 12,
+        "name": "mbapa",
+        "club": "psg",
+        "salary": 2800000,
+        "position": "mid-fielder",
+        "country": "france",
+        "gender": "male",
+        "image": "https://i.ibb.co/3BK9gYH/5f609a5c323fc4001e0d62f6.jpg",
+        "jersey": "10"
+    },
+    {
+        "id": 13,
+        "name": "buffon",
+        "club": "zubentus",
+        "salary": 2000000,
+        "position": "goalkeeper",
+        "country": "italy",
+        "gender": "male",
+        "image": "https://i.ibb.co/qMTGdzX/buffon-juve-psg-file-afp.jpg",
+        "jersey": "1"
+    },
+    {
+        "id": 14,
+        "name": "dany alvas",
+        "club": "spfc",
+        "salary": 1200000,
+        "position": "defence",
+        "country": "brazil",
+        "gender": "male",
+        "image": "https://i.ibb.co/JtXShDC/1115129-Dani-Alves-1464871052.jpg",
+        "jersey": "Cathe"
+    },
+    {
+        "id": 15,
+        "name": "neymer js",
+        "club": "psg",
+        "salary": 3800000,
+        "position": "mid-fielder",
+        "country": "brazil",
+        "gender": "male",
+        "image": "https://i.ibb.co/Vp4QZBz/Bra-Cos-1-cropped.jpg",
+        "jersey": "11"
+    }
+]

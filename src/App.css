@@ -1,38 +1,34 @@
-.App {
+.header-section{
   text-align: center;
+  padding: 25px 0;
+  border-bottom: 1px solid lightgray;
+}
+.header-section h2{
+  text-transform: uppercase;
+  font-size: 3.5rem;
+  margin: 10px 0;
+}
+.header-section p{
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  margin: 10px 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.team{
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.players-profile{
+  width: 75%;
+  border-right: 1px solid lightgray;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  margin-top: 20px;
+  row-gap: 30px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.player-cart{
+  width: 25%;
 }

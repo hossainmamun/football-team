@@ -1,0 +1,15 @@
+.p-detail{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+}
+.p-detail img{
+    width: 400px;
+    height: 270px;
+    margin-bottom: 20px;
+}
+.btn{
+    text-transform: capitalize;
+}
+
